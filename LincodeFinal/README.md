@@ -1,4 +1,4 @@
-# LincodeFinal
+# Cookie Production Line Program
 
 ## This code was written for Lincode Hackathon challenge 1
 
