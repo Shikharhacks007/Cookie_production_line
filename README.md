@@ -12,7 +12,7 @@
 	 (to check whether the cookie is not burnt) 
  
 The diameter of the cookies is found by using the Canny functions of 
-open cv to which findes the edges and then dilates them to get fill circle
+**open cv** to which findes the edges and then dilates them to get fill circle
 to polt with. After ploting using Euclidean space, we find the diameter
 of the cookies and convert the pixels into inches using the ratio of 
 pixelspermetrix. (The values are claibrated denpending on the camera 
